@@ -23,9 +23,7 @@ This approach aims to improve the accuracy and generalizability of PM2.5 concent
 10.Improved Accuracy: This approach aims to enhance the accuracy and generalizability of PM2.5 concentration predictions.
 
 ## Datasets:
-1. Rouniyar, A., Utomo, S., A, J. & Hsiung, P.-A. Air pollution image
-dataset from india and nepal (2023). URL https://www.kaggle.com/
-ds/3152196.<br>
+1. Rouniyar, A., Utomo, S., A, J. & Hsiung, P.-A. Air pollution image dataset from india and nepal (2023). URL https://www.kaggle.com/ds/3152196.<br>
 2.https://www.windy.com (2023). <br>
 3.https://rtsp.me/embed/K9BbYSyf/ (2023).
 
