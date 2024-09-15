@@ -10,8 +10,11 @@ This model, named the Throughout the Day PM2.5 Convolutional Neural Network (TDP
 It combines the original image with high-frequency features that capture detailed structures like building edges and low-frequency features that represent overall color patterns. 
 This approach aims to improve the accuracy and generalizability of PM2.5 concentration predictions.
 
+Comparison with SOTA  PM2.5 estimation methods
+
+
 <p align="center">
-<img src="https://github.com/nrmkarthi/Airquality_Prediction/blob/main/1.png" alt="System Architecture" width="700" height="1000">
+<img src="https://github.com/nrmkarthi/Airquality_Prediction/blob/main/1.png" alt="System Architecture" width="700" height="600">
 </p>
 
 <p align="center">
