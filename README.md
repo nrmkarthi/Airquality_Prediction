@@ -10,6 +10,23 @@ This model, named the Throughout the Day PM2.5 Convolutional Neural Network (TDP
 It combines the original image with high-frequency features that capture detailed structures like building edges and low-frequency features that represent overall color patterns. 
 This approach aims to improve the accuracy and generalizability of PM2.5 concentration predictions.
 
+<p align="center">
+<img src="https://github.com/nrmkarthi/Airquality_Prediction/blob/main/1.png" alt="System Architecture" width="700" height="1000">
+</p>
+
+<p align="center">
+<img src="https://github.com/nrmkarthi/Airquality_Prediction/blob/main/2.png" alt="System Architecture" width="700" height="1000">
+</p>
+
+<p align="center">
+<img src="https://github.com/nrmkarthi/Airquality_Prediction/blob/main/3.png" alt="System Architecture" width="700" height="1000">
+</p>
+
+<p align="center">
+<img src="https://github.com/nrmkarthi/Airquality_Prediction/blob/main/4.png" alt="System Architecture" width="700" height="1000">
+</p>
+
+
 ## Approach:
 1.Global Health Threat: Air pollution is identified by the WHO as a significant threat to human health. <br>
 2.Impact in 2019: In 2019, air pollution caused approximately 4.2 million deaths, with PM2.5 as a major pollutant. <br>
